@@ -32,3 +32,7 @@ This repository contains a Dockerfile and Kubernetes manifests created as part o
 - kubectl
 - Git
 - GitHub
+
+- Dockerfile creates a Docker image.
+- Pod YAML creates one Pod.
+- Deployment YAML manages multiple Pods automatically.
